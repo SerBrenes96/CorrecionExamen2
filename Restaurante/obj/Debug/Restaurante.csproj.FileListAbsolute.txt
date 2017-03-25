@@ -1,0 +1,66 @@
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\ApplicationInsights.config
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\csc.exe
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\vbc.exe
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\VBCSCompiler.exe
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Restaurante.dll.config
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Restaurante.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Restaurante.pdb
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.Web.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.Web.xml
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\obj\Debug\Restaurante.dll
+C:\Users\Microsoft\Source\Repos\Semana7\ExtraSegundoExamen\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\ApplicationInsights.config
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\csc.exe
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\vbc.exe
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\VBCSCompiler.exe
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Restaurante.dll.config
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Restaurante.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Restaurante.pdb
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.Web.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.Web.xml
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\obj\Debug\Restaurante.dll
+C:\Users\Checho\Documents\Visual Studio 2015\Projects\ExtraSegundoExamen\Restaurante\obj\Debug\Restaurante.pdb
